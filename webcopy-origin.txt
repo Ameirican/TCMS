@@ -1,0 +1,116 @@
+Uri: https://kingofkfcjamal.github.io/CaseClicker/
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\index.htm
+Content Type: text/html
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/csgo.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\csgo.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Rajdhani:600
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\css-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/css/stylesheet.css
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\css\stylesheet.css
+Content Type: text/css
+
+Uri: https://steamcommunity.com/id/bnned
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\id\bnned.html
+Content Type: text/html
+
+Uri: https://steamcommunity.com/id/roflzilla_
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\id\roflzilla_.html
+Content Type: text/html
+
+Uri: https://steamcommunity.com/id/KingofKFC
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\id\KingofKFC.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/r/csgoclicker/
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\r\csgoclicker\index.htm
+Content Type: text/html
+
+Uri: https://csgoclicker.net/
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\index.htm
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\ajax\libs\jquery\2.2.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/start-game.mp3
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\start-game.mp3
+Content Type: audio/mp3
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/new-item.mp3
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\new-item.mp3
+Content Type: audio/mp3
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/win-pot.mp3
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\win-pot.mp3
+Content Type: audio/mp3
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/click.wav
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\click.wav
+Content Type: audio/wav
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/menuclick.wav
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\menuclick.wav
+Content Type: audio/wav
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/sounds/itemreveal.mp3
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\sounds\itemreveal.mp3
+Content Type: audio/mp3
+
+Uri: https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg/240fx182f
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\economy\image\-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg\240fx182f.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Ga7WRKc.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\Ga7WRKc.png
+Content Type: image/png
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/js/script.js
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-RREVFSVPZZ
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://i.imgur.com/zoKOaEY.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\zoKOaEY.png
+Content Type: image/png
+
+Uri: https://kingofkfcjamal.github.io/CaseClicker/images/sunburst.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\CaseClicker\images\sunburst.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/vakyLA5.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\vakyLA5.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Pw82Pa6.png
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\Pw82Pa6.png
+Content Type: image/png
+
+Uri: https://steamcommunity.com/id/toshizuno/
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\id\toshizuno\index.htm
+Content Type: text/html
+
+Uri: https://discord.com/invite/9zSrah6
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\invite\9zSrah6.html
+Content Type: text/html
+
+Uri: https://docs.google.com/forms/d/e/1FAIpQLSfwthVYWauvc0saS2ouHz7vXckLvMKrLrgkcdfMQsOWzYsaww/closedform
+File Name: C:\Downloaded Web Sites\kingofkfcjamal.github.io\forms\d\e\1FAIpQLSfwthVYWauvc0saS2ouHz7vXckLvMKrLrgkcdfMQsOWzYsaww\closedform.html
+Content Type: text/html
+
